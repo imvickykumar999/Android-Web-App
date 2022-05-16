@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         webView.setWebViewClient(new WebViewClient());
 
-        webView.loadUrl("https://imvickykumar.herokuapp.com");
+        webView.loadUrl("https://imvickykumar.herokuapp.com/user/imvickykumar999");
     }
 
 
