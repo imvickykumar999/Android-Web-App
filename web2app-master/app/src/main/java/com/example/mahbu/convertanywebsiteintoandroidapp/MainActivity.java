@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         webView.setWebViewClient(new WebViewClient());
 
-        webView.loadUrl("https://imvickykumar999.github.io/Saregama-Carvaan/");
+        webView.loadUrl("https://www.instagram.com/reels/CqAi7V5Mjgh/");
     }
 
 
